@@ -1,0 +1,2 @@
+const materials = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium'];
+console.log(materials.map((material) => material.length)); //map function is used to iterate the elements of an array and return the length of each element
